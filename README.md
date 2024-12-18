@@ -1,6 +1,6 @@
 # Landing page
 - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-- [DEMO LINK] (https://github.com/annaabramovaa/My-Bike)
+- [DEMO LINK] (https://annaabramovaa.github.io/My-Bike/)
 
 # This is a responsive website based on a design from Figma. It represents a page dedicated to bicycles, featuring a modern and stylish interface.
 
