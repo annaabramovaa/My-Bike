@@ -2,11 +2,10 @@
 - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 - [DEMO LINK] (https://annaabramovaa.github.io/My-Bike/)
 
-# Це адаптивний сайт, створений на основі дизайну з Figma. Він представляє сторінку, присвячену велосипедам, з сучасним і стильним інтерфейсом.
+# This is a responsive website based on a design from Figma. It represents a page dedicated to bicycles, featuring a modern and stylish interface.
 
-## Використані технології
-- HTML5, CSS3
-- Flexbox, CSS Grid
-- SCSS (міксіни, змінні)
-- Анімація CSS
-
+# Technologies Used
+ - HTML5, CSS3
+ - Flexbox, CSS Grid
+ - SCSS (mixins, variables)
+ - CSS animation
